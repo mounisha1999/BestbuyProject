@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-15T20:30:53 IST" name="Default suite" finished-at="2023-06-15T20:43:12 IST" duration-ms="739451">
+    <groups>
+    </groups>
+    <test started-at="2023-06-15T20:30:53 IST" name="Default test" finished-at="2023-06-15T20:43:12 IST" duration-ms="739451">
+      <class name="com.Testcomponent.Regression_Testing">
+        <test-method is-config="true" signature="beforesuite()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:30:52 IST" name="beforesuite" finished-at="2023-06-15T20:30:53 IST" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:30:53 IST" name="beforemethod" finished-at="2023-06-15T20:31:00 IST" duration-ms="7181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="All_Menu_validation()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:31:00 IST" name="All_Menu_validation" finished-at="2023-06-15T20:32:03 IST" duration-ms="63317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- All_Menu_validation -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:32:03 IST" name="aftermethod" finished-at="2023-06-15T20:32:04 IST" duration-ms="1286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:32:04 IST" name="beforemethod" finished-at="2023-06-15T20:32:09 IST" duration-ms="4532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="blank_Username_Password()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:32:09 IST" name="blank_Username_Password" finished-at="2023-06-15T20:32:39 IST" duration-ms="30260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blank_Username_Password -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:32:39 IST" name="aftermethod" finished-at="2023-06-15T20:32:40 IST" duration-ms="441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:32:40 IST" name="beforemethod" finished-at="2023-06-15T20:32:45 IST" duration-ms="4943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="bottom_Links_Validation()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:32:45 IST" name="bottom_Links_Validation" finished-at="2023-06-15T20:34:02 IST" duration-ms="77501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bottom_Links_Validation -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:34:02 IST" name="aftermethod" finished-at="2023-06-15T20:34:03 IST" duration-ms="915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:34:03 IST" name="beforemethod" finished-at="2023-06-15T20:34:10 IST" duration-ms="6791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="inValidUsername_InvalidPassword()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:34:10 IST" name="inValidUsername_InvalidPassword" finished-at="2023-06-15T20:34:58 IST" duration-ms="48422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inValidUsername_InvalidPassword -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:34:58 IST" name="aftermethod" finished-at="2023-06-15T20:34:59 IST" duration-ms="652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:34:59 IST" name="beforemethod" finished-at="2023-06-15T20:35:05 IST" duration-ms="5941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="inValidUsername_validPassword()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:35:05 IST" name="inValidUsername_validPassword" finished-at="2023-06-15T20:35:50 IST" duration-ms="45429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inValidUsername_validPassword -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:35:50 IST" name="aftermethod" finished-at="2023-06-15T20:35:51 IST" duration-ms="562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:35:51 IST" name="beforemethod" finished-at="2023-06-15T20:35:58 IST" duration-ms="7086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="invalid_Login_Credentials_To_Signup()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:35:58 IST" name="invalid_Login_Credentials_To_Signup" finished-at="2023-06-15T20:36:28 IST" duration-ms="29608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalid_Login_Credentials_To_Signup -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:36:28 IST" name="aftermethod" finished-at="2023-06-15T20:36:28 IST" duration-ms="545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:36:28 IST" name="beforemethod" finished-at="2023-06-15T20:36:33 IST" duration-ms="5251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="search_Box_Validation()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:36:33 IST" name="search_Box_Validation" finished-at="2023-06-15T20:37:24 IST" duration-ms="50812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_Box_Validation -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:37:24 IST" name="aftermethod" finished-at="2023-06-15T20:37:25 IST" duration-ms="513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:37:25 IST" name="beforemethod" finished-at="2023-06-15T20:37:30 IST" duration-ms="5338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="searchpaymentValidation()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:37:30 IST" name="searchpaymentValidation" finished-at="2023-06-15T20:39:59 IST" duration-ms="148624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchpaymentValidation -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:39:59 IST" name="aftermethod" finished-at="2023-06-15T20:39:59 IST" duration-ms="614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:39:59 IST" name="beforemethod" finished-at="2023-06-15T20:40:04 IST" duration-ms="4985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="shop_by_Brand()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:40:04 IST" name="shop_by_Brand" finished-at="2023-06-15T20:40:47 IST" duration-ms="42966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shop_by_Brand -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:40:47 IST" name="aftermethod" finished-at="2023-06-15T20:40:48 IST" duration-ms="957" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:40:48 IST" name="beforemethod" finished-at="2023-06-15T20:40:54 IST" duration-ms="6140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="shop_by_Department()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:40:54 IST" name="shop_by_Department" finished-at="2023-06-15T20:41:26 IST" duration-ms="31292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shop_by_Department -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:41:26 IST" name="aftermethod" finished-at="2023-06-15T20:41:26 IST" duration-ms="693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:41:26 IST" name="beforemethod" finished-at="2023-06-15T20:41:32 IST" duration-ms="5270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="validUsername_InvalidPassword()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:41:32 IST" name="validUsername_InvalidPassword" finished-at="2023-06-15T20:41:59 IST" duration-ms="27691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUsername_InvalidPassword -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:41:59 IST" name="aftermethod" finished-at="2023-06-15T20:42:00 IST" duration-ms="637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:42:00 IST" name="beforemethod" finished-at="2023-06-15T20:42:05 IST" duration-ms="5336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="valid_Login_Credentials_To_Signup()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:42:05 IST" name="valid_Login_Credentials_To_Signup" finished-at="2023-06-15T20:42:31 IST" duration-ms="26074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valid_Login_Credentials_To_Signup -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:42:31 IST" name="aftermethod" finished-at="2023-06-15T20:42:32 IST" duration-ms="461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:42:32 IST" name="beforemethod" finished-at="2023-06-15T20:42:37 IST" duration-ms="5041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="valid_username_Password()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:42:37 IST" name="valid_username_Password" finished-at="2023-06-15T20:43:12 IST" duration-ms="34733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valid_username_Password -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:43:12 IST" name="aftermethod" finished-at="2023-06-15T20:43:12 IST" duration-ms="512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="aftersuite()[pri:0, instance:com.Testcomponent.Regression_Testing@550ee7e5]" started-at="2023-06-15T20:43:12 IST" name="aftersuite" finished-at="2023-06-15T20:43:12 IST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- com.Testcomponent.Regression_Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
